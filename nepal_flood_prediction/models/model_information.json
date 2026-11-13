@@ -1,0 +1,14 @@
+{
+    "project": "Next-Day River Discharge Prediction in Nepal",
+    "selected_model": "Random Forest",
+    "selection_method": "Lowest validation RMSE",
+    "validation_rmse": 81.13522490478391,
+    "training_records": 7300,
+    "test_records": 6080,
+    "target": "Next-Day River Discharge",
+    "evaluation_metrics": [
+        "MAE",
+        "RMSE",
+        "R2 Score"
+    ]
+}

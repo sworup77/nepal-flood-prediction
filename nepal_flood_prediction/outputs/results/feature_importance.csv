@@ -1,0 +1,47 @@
+Feature,Importance
+num__river_discharge_m3s,0.7612885251804132
+num__dew_point_mean_c,0.08015406822937761
+num__rain_mm,0.039783153420298346
+num__precipitation_mm,0.027641948139232278
+num__day_sin,0.02631339840053065
+num__day_cos,0.01336315311917037
+num__wind_speed_max_kmh,0.012162354208880831
+num__month_cos,0.008703636235939163
+num__wind_gusts_max_kmh,0.006278345279174343
+num__relative_humidity_mean_pct,0.006213380620205886
+num__wind_direction_dominant_deg,0.005849506153220698
+num__precipitation_hours,0.0040373674797541115
+num__temperature_mean_c,0.0038276720284973966
+num__soil_moisture_0_100cm_m3m3,0.00258650133873732
+num__month_sin,0.001630926709547945
+num__elevation_m,8.162829201817105e-05
+cat__basin_Rapti,1.763446447530197e-05
+cat__river_West Rapti,1.194981953317677e-05
+cat__location_Kusum,1.0290188665334523e-05
+num__latitude,8.9116877757098e-06
+cat__river_Bagmati,4.662992865194517e-06
+cat__basin_Bagmati,4.37449266969041e-06
+cat__location_Khokana,4.021292523004646e-06
+cat__basin_Kamala,3.4763359398650494e-06
+cat__river_Kamala,3.3933154129430892e-06
+cat__location_Belsot,3.104003671401427e-06
+num__longitude,3.042422273842536e-06
+cat__basin_Mahakali,2.268524419278687e-06
+cat__location_Chameliya/Nayalbadi,1.6866791566577375e-06
+cat__basin_Koshi,1.4980364504908102e-06
+cat__river_Bhote Koshi,8.347336826206934e-07
+cat__location_Bahrabise,6.665969197693553e-07
+cat__basin_Babai,3.623633118573101e-07
+cat__river_Chamelia,3.5659162969662184e-07
+cat__river_Saptakoshi,3.2452946639728543e-07
+cat__river_Babai,2.979867087901304e-07
+cat__location_Chisapani,2.934314472490601e-07
+cat__basin_Karnali,2.823399864734472e-07
+cat__river_Karnali,2.239090064347736e-07
+cat__location_Bhada Bridge,2.165238258732603e-07
+cat__location_Chatara,2.1282049637586165e-07
+cat__river_Narayani,2.0362832995350462e-08
+cat__location_Devghat,1.607711921663855e-08
+cat__basin_Narayani/Gandak,8.451385662366711e-09
+cat__location_Rasuwagadhi,2.8238332844716746e-09
+cat__basin_Narayani,1.3675167626261304e-09
